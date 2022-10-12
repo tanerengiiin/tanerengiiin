@@ -2,9 +2,6 @@
 <h3 align="center">I am a computer engineering student trying to be a stable front end developer.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"/>
 
-
-![](https://github-profile-trophy.vercel.app/?username=tanerengiiin&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 - 🌱 I’m currently learning **Python, Django, React, Typescript, Next.js**
 
 - 📫 How to reach me **tanerengin444@gmail.com**
