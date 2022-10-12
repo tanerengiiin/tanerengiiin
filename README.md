@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taner</h1>
 <h3 align="center">I am a computer engineering student trying to be a stable front end developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanerengiiin&label=Profile%20views&color=0e75b6&style=flat" alt="tanerengiiin" /> </p>
 
