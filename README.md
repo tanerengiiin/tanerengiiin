@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanerengiiin" alt="tanerengiiin" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=tanerengiiin&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 - 🌱 I’m currently learning **Python, Django, React, Typescript, Next.js**
 
